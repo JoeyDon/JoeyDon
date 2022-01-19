@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoeyDon
-- 👀 I’m interested in DevOps/SWE
-- 🌱 I’m currently learning Security
+- 👀 I’m interested in Solution Design
 
 
 <!---
